@@ -8,7 +8,7 @@
       <p><b>目前地址：北京大学</b></p >
     </td>
     <td width="25%">
-      < img src="/路飞.jpg" /> 
+      < img src="/路飞.jpg"  width="100%">      % 插入证件照代码
     </td>
   </tr>
 </table>
