@@ -26,27 +26,6 @@
 #### 羽毛球
 #### 乒乓球
 #### 动漫
-<!DOCTYPE html>
-<html lang="zh-cn">
-    <head>
-        <meta charset="utf-8"/>
-        <title>见证二次元</title>
-        <link href="https://cn.bing.com/images/search?view=detailV2&ccid=YxG%2ftjYH&id=7CDA234E38633CCDE4325ACD9E68B4576E1F783B&thid=OIP.YxG_tjYHREPln_cpFMeUmQHaQC&mediaurl=https%3a%2f%2fwww.wahaotu.com%2fuploads%2fallimg%2f202010%2f1603618930365044.jpg&exph=2436&expw=1125&q=%e4%ba%8c%e6%ac%a1%e5%85%83%e5%a3%81%e7%ba%b8&simid=608024677563040047&FORM=IRPRST&ck=9933B294207C20508A37764DF55EDFB2&selectedIndex=22&ajaxhist=0&ajaxserp=0"rel="stylesheet"type="text/css"/>
-    </head>
-    <body>
-        <h1>斗罗大陆</h1>
-        <p>小舞</p >
-        <img scr="https://cn.bing.com/images/search?view=detailV2&ccid=WJnlA2WG&id=C294ED1BA999502E35B9384CE2B5DD7BAA762A17&thid=OIP.WJnlA2WGCK8ryY-vHQ5JJAHaNL&mediaurl=https%3a%2f%2ftse1-mm.cn.bing.net%2fth%2fid%2fR-C.5899e503658608af2bc98faf1d0e4924%3frik%3dFyp2qnvdteJMOA%26riu%3dhttp%253a%252f%252flife911.cn%252fwp-content%252fuploads%252f2021%252f03%252ff2ffa03e1860e382cafee349abbf95.png%26ehk%3deVOlEyLpu%252bp0YvZloVWXbhuxEx9EJriShf8ybL1fuP8%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1610&expw=905&q=%e6%96%97%e7%bd%97%e5%a4%a7%e9%99%86&simid=608017513555962085&FORM=IRPRST&ck=58CB710FE3901ED397525818F27CE5A8&selectedIndex=64&ajaxhist=0&ajaxserp=0"/>
-        <a href="https://v.qq.com/cartoon/p/topic/dldldh/index.html">斗罗大陆动漫正在上映</a>
-        <h2>狐妖小红娘</h2>
-        <a href="https://v.qq.com/detail/0/0sdnyl7h86atoyt.html">狐妖小红娘在线观看</a>
-        <img src="https://cn.bing.com/images/search?view=detailV2&ccid=OWtofVUe&id=3D34BC5C69E77772A25EEB1A4F4ABEDAEC6935AE&thid=OIP.OWtofVUeQNsFqEuSKKgHiQHaKe&mediaurl=https%3a%2f%2ftse1-mm.cn.bing.net%2fth%2fid%2fR-C.396b687d551e40db05a84b9228a80789%3frik%3drjVp7Nq%252bSk8a6w%26riu%3dhttp%253a%252f%252f5b0988e595225.cdn.sohucs.com%252fimages%252f20180524%252fd3de0d3653de4d2ebff3784d0ec67820.jpeg%26ehk%3dqMH6sWxqHD54dtEhxWkLEko%252bNP3rtJOhgsjPDYw947w%253d%26risl%3d%26pid%3dImgRaw%26r%3d0&exph=1528&expw=1080&q=%e7%8b%90%e5%a6%96%e5%b0%8f%e7%ba%a2%e5%a8%98&simid=608002923546286169&FORM=IRPRST&ck=02F7005C84CBAD0097D02A45A0F313CB&selectedIndex=3&ajaxhist=0&ajaxserp=0"/>
-        <h3>海贼王</h3>
-        <p>《航海王》是日本漫画家尾田荣一郎作画的少年漫画作品，于1997年7月22日在集英社《周刊少年Jump》开始连载。改编的电视动画《航海王》于1999年10月20日起在富士电视台首播。2012年5月11日，《航海王》获得第41回日本漫画家协会赏。本作被吉尼斯世界纪录官方认证为“世界上发行量最高的单一作者创作的系列漫画”。2017年7月21日，日本纪念日协会通过认证，将每年的7月22日设立为“ONE PIECE纪念日”</p>
-        <p>创作海贼故事是尾田荣一郎长久以来的梦想，他小时候一直很好奇为什么没有什么漫画以海贼为主题，他顶多只知道有《北海小英雄》这部动画。他认为男孩长到某个年纪后应该就会想要出海寻宝才对。尾田从小就很想看海贼的漫画，那个时候他对自己说，如果要自己画的话，那就一定会画海贼的故事。不管作品卖不卖得掉，他都是作好了心理准备才会这么选择的，纯粹就是他自己想看而已 尾田荣一郎在初一时，第一次画了海贼漫画，而尾田对孩子冒险所抱着的想象太丰富，就一本笔记本也画不完。他认识到用“一期完”的形式来画海贼漫画是不可能的，于是他决定要在《少年JUMP》上连载海贼漫画1997年，尾田荣一郎创作了海贼漫画《Romance Dawn》，这部一话完结的短篇漫画正是《航海王》的创作原型，后来这个名字还被《航海王》第一话作为副标题使用。当然，虽然两部漫画的主人公都叫路飞，性格却判若两人，剧情也并不相同</p>
-        <a href="https://www.iqiyi.com/lib/m_200067914.html">海贼王在线观看</a>
-    </body>
-</html>
 
 ### 世界观
 #### 价值观
