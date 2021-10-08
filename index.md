@@ -19,7 +19,6 @@
 
 ### 成长经历
 #### 我的小学：<a href="https://baike.baidu.com/item/%E9%98%9C%E5%8D%97%E5%8E%BF%E7%AC%AC%E4%B8%83%E5%B0%8F%E5%AD%A6/9632121">阜南七小</a>（2010-2015）（了解请点击）
-<img src="https://bkimg.cdn.bcebos.com/pic/9c16fdfaaf51f3de9517e3bd95eef01f3b297945?x-bce-process=image/resize,m_lfit,w_268,limit_1/format,f_auto"/>
 #### 我的初中：<a href="http://www.ahfnec.com/">阜南二初</a>（2015-2018）（了解请点击）
 <img src="https://tse4-mm.cn.bing.net/th/id/OIP-C.5pq5gdkvJgs8AG_7bIrybwHaG9?pid=ImgDet&rs=1"/>
 #### 我的高中：<a href="http://www.fyyz.net/">阜阳一中</a>（2018-2021）（了解请点击）
