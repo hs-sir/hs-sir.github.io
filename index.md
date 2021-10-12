@@ -8,7 +8,7 @@
       <p><b>目前地址：北京大学</b></p >
     </td>
     <td width="25%">
-      < img src="/路飞.jpg"  width="100%"> 
+      < img src="https://tse1-mm.cn.bing.net/th/id/R-C.7c4d16828eb19df894ee75f9de50ca1b?rik=yjHcStn6yu05Mw&riu=http%3a%2f%2fpic20.nipic.com%2f20120412%2f9823388_215909170155_2.jpg&ehk=2Or77kabazC1FW%2f%2fMSQAnvMMP%2fC78t4XO7Pan%2ba2QBs%3d&risl=&pid=ImgRaw&r=0"/> 
     </td>
   </tr>
 </table>
